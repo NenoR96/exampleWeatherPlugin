@@ -1,10 +1,11 @@
-# Example weather plugin
-This is an example on how to create a simple weather plugin using only JQuery and BuildFire.js
+# Weather plugin
+This is plugin which can be used to display weather based on choosen place or user's location
 
-the source code described in this video tutorial https://www.youtube.com/watch?v=4qh4S-BwLJM
+## instalation
+run `npm install` to install dependencies
 
-## Note:
-This is just the plugin source code. if you need the full BuildFire SDK you can find it here https://github.com/BuildFire/sdk
+## run
+In Buildfire SDK root folder run `npm run`
 
 ### Special Thanks to
 openweathermap.org for providing the open api
